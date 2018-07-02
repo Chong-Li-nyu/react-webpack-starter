@@ -1,0 +1,6 @@
+npm install -D webpack webpack-dev-server webpack-cli
+
+#babel loader -- compile jsx
+#html-webpack-plugin generate build html file, don't need to write the <script> label, the plugin do it for us
+
+npm install -D babel-core babel-loader babel-preset-env babel-preset-react html-webpack-plugin
